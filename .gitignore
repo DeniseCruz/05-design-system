@@ -1,0 +1,5 @@
+
+node_modules
+dist
+excluido_node_modules
+.turbo
